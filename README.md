@@ -1,6 +1,23 @@
 # CatFarFromHomeGame
 ![Logo de mi proyecto](https://github.com/Entornos-Virtuales-N/CatFarFromHomeGame/blob/acfcb9d13b03a82a8cde19c7af26ab84fb7448b6/Fondo1.png)
- Clonar el repositorio:
+Mich es un gato raptado y abandonado, Mich debe buscar las pistas y lograr la puntuación
+adecuada consiguiendo los objetos que le pertenecen para poder encontrar el camino
+correcto a casa, superando pruebas en cada uno de los tres niveles con los que cuenta el
+juego con ayuda del usuario jugador, sin toparse con el temido August, un perro que viaja
+de nivel en nivel intentando atrapar a Mich e impedirle el regreso a casa, a través de cada
+nivel el juego se vuelve más difícil y un desafío más complicado de lograr.
+
+# Mecanica
+El usuario podrá controlar a el protagonista que será mitch un gato que tendrá las funciones
+de poder avanzar en 360 grados por el entorno del juego.
+Saltar para poder pasar o esquivar obstáculos que se encuentre por su camino.
+1. Movimiento
+● Mich: Saltar, correr
+2. Interacción:
+● Recoger, usar y coleccionar objetos.
+● Interactuar con elementos del entorno (palancas, botones, etc.).
+
+# Instalacion
 
 1 - Abre una terminal o línea de comandos.
 
